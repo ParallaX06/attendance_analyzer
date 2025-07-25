@@ -1,0 +1,11 @@
+Name,Present,Total,Percentage,Status
+John Smith,8,10,80.0,PASS
+Jane Doe,9,10,90.0,PASS
+Mike Johnson,5,10,50.0,FAIL
+Sarah Wilson,10,10,100.0,PASS
+Tom Brown,4,10,40.0,FAIL
+Lisa Davis,8,10,80.0,PASS
+David Miller,8,10,80.0,PASS
+Emma Garcia,9,10,90.0,PASS
+Alex Rodriguez,5,10,50.0,FAIL
+Sophie Taylor,9,10,90.0,PASS
